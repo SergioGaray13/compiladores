@@ -1,8 +1,8 @@
 # Proyecto Yacc y Lex
 
 ## Información General
-* Desarrollado por Erik Flores
-* Septiembre 2020
+* Desarrollado por Sergio Garay
+* Septiembre 2022
 
 ## Herramientas utilizadas
 * Ubuntu 20.04: Sistema operativo
