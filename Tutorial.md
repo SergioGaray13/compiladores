@@ -9,7 +9,7 @@ Las tecnologías a utilizar son:
 * C: Lenguaje de programación
 
 El proyecto completo del ejemplo puede descargarse en el siguient enlace:
-https://github.com/ericknavarro/ProyectoLexYACC
+https://github.com/SergioGaray13/compiladores
 
 ## Lex
 Lex es una herramienta que permite generar analizadore léxicos a partir de un conjunto de reglas y expresiones regulares. Desarrollado por Eric Schmidt y Mike Lesk para los sistemas Unix. Escrito en C para C, su implementación para C++ es posible, aunque no es segura ya que está mas enfocado en el trabajo con C. 
